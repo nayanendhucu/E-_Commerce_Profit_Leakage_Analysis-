@@ -443,6 +443,30 @@ This reflects a core Data Analyst practice:
 **Use the data to support conclusions — not to manufacture them.**
 
 ---
+## Portfolio Workbook
+
+The original Excel workbook contains the complete project workflow, including the full raw datasets, cleaned datasets, transformation layers, analytical calculations, and dashboard.
+
+Because the complete working workbook is too large for practical GitHub hosting, I created a **GitHub-optimized portfolio version** of the workbook.
+
+### GitHub Portfolio Version
+
+The portfolio workbook retains the key cleaned datasets, analytical outputs, business analysis, scenario modelling and executive dashboard while removing the large raw-data components and unnecessary file weight.
+
+This version is provided so recruiters and reviewers can open and explore the analytical work directly without needing to download the full working dataset.
+### 📊 Excel Workbook
+
+[Download the GitHub Portfolio Workbook](./Excel/E-Commerce_Profit_Leakage_Analysis_Portfolio_25MB_fixed.xlsx)
+
+> **Portfolio note:** The complete working workbook is larger because it contains the full datasets and detailed project layers. A reduced portfolio version is provided here for practical GitHub hosting while preserving the key analytical outputs and dashboard.
+### Workbook Versions
+
+| Version | Purpose |
+|---|---|
+| Full Working Workbook | Complete analysis workflow, including full datasets and detailed Excel work |
+| GitHub Portfolio Workbook | Reduced-size version containing the key cleaned/analytical outputs and dashboard |
+
+> **Note:** The GitHub version is a presentation/portfolio copy of the project. The full working workbook is retained separately as the master analysis file.
 
 # 16. Project Deliverables
 
