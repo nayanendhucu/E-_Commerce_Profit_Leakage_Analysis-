@@ -1,6 +1,4 @@
-# Nayanendhu — Data Analytics Portfolio
-
-Welcome to my data analytics portfolio.
+# Nayanendhu — Data Analytics 
 
 ## Featured Project
 
